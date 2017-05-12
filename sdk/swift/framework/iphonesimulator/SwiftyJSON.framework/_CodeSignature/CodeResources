@@ -22,7 +22,15 @@
 		</data>
 		<key>Modules/SwiftyJSON.swiftmodule/i386.swiftmodule</key>
 		<data>
-		gGi8ec+1WZFa9iHx3adLHXFlqqM=
+		m6RcWFDt4FmSedIZtMo7vSPSUcg=
+		</data>
+		<key>Modules/SwiftyJSON.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		lVpJ8SdH6nSFxmvUsAnaHky3zWY=
+		</data>
+		<key>Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		n4Hi2t1yOUCpjzpGVnQOiLmd0+4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -68,11 +76,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gGi8ec+1WZFa9iHx3adLHXFlqqM=
+			m6RcWFDt4FmSedIZtMo7vSPSUcg=
 			</data>
 			<key>hash2</key>
 			<data>
-			3uYwfnJyp+Rvu14gzX/v6LGvg8B3fWDJonXUV5So84A=
+			i4V9RxjzdF0mM0hxTNmEadIKnSqhvYyH/DguAboV+NQ=
+			</data>
+		</dict>
+		<key>Modules/SwiftyJSON.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lVpJ8SdH6nSFxmvUsAnaHky3zWY=
+			</data>
+			<key>hash2</key>
+			<data>
+			gw2qms+YpHCk4jqLRDGfXW79oF4TtN5wgXm7FiFCOks=
+			</data>
+		</dict>
+		<key>Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			n4Hi2t1yOUCpjzpGVnQOiLmd0+4=
+			</data>
+			<key>hash2</key>
+			<data>
+			6hQbH8X74nS2EKsQ5GuEnVaNxre6UvlMoNhCed6E1G8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/YICameraSDK-Swift.h</key>
 		<data>
-		hnlEapyBQMTcaWD7CY+HuLsLYog=
+		RdFCiIE/iqHSZpVHR5kpm2t/Dbw=
 		</data>
 		<key>Headers/YICameraSDK.h</key>
 		<data>
@@ -18,11 +18,19 @@
 		</data>
 		<key>Modules/YICameraSDK.swiftmodule/i386.swiftdoc</key>
 		<data>
-		IcM9W2jMoecx6zncBMCsSR1sZ4o=
+		j2iMrofBXtS4svjZqUkDo5koaQI=
 		</data>
 		<key>Modules/YICameraSDK.swiftmodule/i386.swiftmodule</key>
 		<data>
-		LqSmN6qm8k4PsZ0AsM7nVMs3+tY=
+		UujTOSfow2Ddkktfx+mULA5pEqI=
+		</data>
+		<key>Modules/YICameraSDK.swiftmodule/x86_64.swiftdoc</key>
+		<data>
+		M7AT85IHsvQ0bdJP1grbXLCLXq8=
+		</data>
+		<key>Modules/YICameraSDK.swiftmodule/x86_64.swiftmodule</key>
+		<data>
+		iggIAQBgNQGPshx/6kKWcV2m0Hk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -35,11 +43,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hnlEapyBQMTcaWD7CY+HuLsLYog=
+			RdFCiIE/iqHSZpVHR5kpm2t/Dbw=
 			</data>
 			<key>hash2</key>
 			<data>
-			YXDpmf5fqTWJeRLlUFGkryHMGZDkY7bibqiN4clTHsM=
+			4z4U3TQ6NW1M7n3n2si0eYeMkXNfq1SQPo4eIdIBy9A=
 			</data>
 		</dict>
 		<key>Headers/YICameraSDK.h</key>
@@ -57,22 +65,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IcM9W2jMoecx6zncBMCsSR1sZ4o=
+			j2iMrofBXtS4svjZqUkDo5koaQI=
 			</data>
 			<key>hash2</key>
 			<data>
-			XGumeY1D69CPQ3OC4mdK23gLkL050aEkTJMrNlr7R6M=
+			pY8UBT2seChRXIVj2juho/BnHug+/0oqG4akwWxu6mU=
 			</data>
 		</dict>
 		<key>Modules/YICameraSDK.swiftmodule/i386.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LqSmN6qm8k4PsZ0AsM7nVMs3+tY=
+			UujTOSfow2Ddkktfx+mULA5pEqI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HV07zVX+H/2kuA5tqt9XvJMA+PLxcO2u4Nf4XUG3NX8=
+			lPNr/VeV8nYPCtP0WCixICdEOb060FwFmnZs1gVQ+P8=
+			</data>
+		</dict>
+		<key>Modules/YICameraSDK.swiftmodule/x86_64.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			M7AT85IHsvQ0bdJP1grbXLCLXq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q3mHj/3Afa0uqvVdaJr2qvWmNGWSirUounYU4fSMK+0=
+			</data>
+		</dict>
+		<key>Modules/YICameraSDK.swiftmodule/x86_64.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			iggIAQBgNQGPshx/6kKWcV2m0Hk=
+			</data>
+			<key>hash2</key>
+			<data>
+			4N12z9ieDj9Y6u9gtXGK5x0fSBsScT1CGOaqk40b0XA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

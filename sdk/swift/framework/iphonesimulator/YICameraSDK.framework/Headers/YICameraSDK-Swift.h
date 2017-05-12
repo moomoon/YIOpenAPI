@@ -154,7 +154,7 @@ enum LiveVideoBitrate : NSInteger;
 /// Any <code>success</code> or <code>fail</code> callback in commands are optional parameter. If you don’t care command
 /// execution result, you can pass <code>nil</code>.
 SWIFT_CLASS("_TtC11YICameraSDK12ActionCamera")
-@interface ActionCamera : NSObject <NSURLSessionDelegate, NSURLSessionDownloadDelegate, NSURLSessionTaskDelegate>
+@interface ActionCamera : NSObject <NSURLSessionDownloadDelegate>
 /// Connect to a YI action camera.
 /// Invoke this function to connect to a YI action camera. Param <code>connectionString</code> represents
 /// the address of the remote camera. Format is:
